@@ -294,7 +294,9 @@ p {
 .features-img1 img {
     width: 40vw;
 }
-
+.cards{
+    display: flex;
+}
 
 .features2{
     background-color: white;
@@ -463,6 +465,10 @@ p {
   font-weight: 400;
 }
 
+p {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
 
 /* Third */
 .third {
